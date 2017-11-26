@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<services>
+    <service>
+        <id_service>1</id_service>
+        <name>First service</name>
+        <date>26.11.2017</date>
+        <space>10</space>
+        <users>
+            <user>
+                <id_user></id_user>
+            </user>
+        </users>
+    </service>
+</services>
